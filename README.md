@@ -2,6 +2,12 @@
 
 Welcome to my Conky configuration repository for Linux! 🎉
 
+### Screenshot
+
+Here is a screenshot of the Conky setup using this configuration:
+
+![Conky Screenshot](images/Conky-Cap.png)
+
 ### Overview
 
 This repository contains a custom configuration for Conky, a lightweight system monitor tool for Linux. Conky is highly customizable, and this configuration file is designed to provide a comprehensive and visually appealing display of system information.
@@ -61,3 +67,8 @@ To use this Conky configuration, follow these steps:
 - **Configuration Highlights**:
   - The configuration file includes sections for system information, CPU usage, GPU usage, memory usage, disk usage, network statistics, and top processes.
   - Customizable layout and color schemes to fit your personal style.
+
+### License
+
+This project is licensed under the GNU General Public License Version 3, 29 June 2007. See the [LICENSE](LICENSE) file for details.
+
