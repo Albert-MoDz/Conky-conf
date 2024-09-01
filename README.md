@@ -46,6 +46,7 @@ To use this Conky configuration, follow these steps:
      ```sh
      sudo apt-get install conky  # For Debian-based systems
      sudo yum install conky      # For Red Hat-based systems
+     sudo pacman -S conky        # For Arch-linux systems
      ```
    - Start Conky with your configuration:
      ```sh
@@ -58,21 +59,5 @@ To use this Conky configuration, follow these steps:
   - Replace `your-username` with your actual username on your Linux system.
 
 - **Configuration Highlights**:
-  - The configuration file includes sections for time and date, system info, CPU usage, GPU usage, memory usage, disk usage, and network statistics.
-  - Multiple bars can be added or customized within the same file or using separate instances.
-
-### Customization
-
-Feel free to modify the configuration to suit your needs. You can adjust the appearance, layout, and content of the Conky display by editing the `conky.conf` file. Refer to the [Conky documentation](https://wiki.archlinux.org/title/Conky) for more details on the available configuration options.
-
-### Contribution
-
-If you have suggestions or improvements for this configuration, please feel free to submit a pull request or open an issue. Contributions are always welcome!
-
-### License
-
-This configuration is provided under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-I hope you find this Conky configuration useful and visually appealing for your Linux desktop environment! Enjoy monitoring your system with style. 😊
+  - The configuration file includes sections for system information, CPU usage, GPU usage, memory usage, disk usage, network statistics, and top processes.
+  - Customizable layout and color schemes to fit your personal style.
