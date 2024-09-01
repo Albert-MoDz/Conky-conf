@@ -6,7 +6,7 @@ Welcome to my Conky configuration repository for Linux! 🎉
 
 Here is a screenshot of the Conky setup using this configuration:
 
-![Conky Screenshot]([images/Conky-Cap.png](https://github.com/Albert-MoDz/Conky-conf/blob/main/Conky-Cap.png))
+![Conky Screenshot]([https://github.com/Albert-MoDz/Conky-conf/blob/main/Conky-Cap.png]))
 
 ### Overview
 
