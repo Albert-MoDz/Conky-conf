@@ -6,8 +6,8 @@ Welcome to my Conky configuration repository for Linux! 🎉
 
 Here is a screenshot of the Conky setup using this configuration:
 
-![Conky Screenshot]([Conky-Cap.png]))
-
+[![Conky Screenshot]([Conky-Cap.png]))
+](https://github.com/Albert-MoDz/Conky-conf/issues/1#issue-2499145698)
 ### Overview
 
 This repository contains a custom configuration for Conky, a lightweight system monitor tool for Linux. Conky is highly customizable, and this configuration file is designed to provide a comprehensive and visually appealing display of system information.
